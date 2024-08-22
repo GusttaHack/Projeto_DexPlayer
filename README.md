@@ -1,10 +1,9 @@
-# Projeto - Progamação 2
-### Com base nos requisitos foi desenvolvido:
-- Este é um player de música simples, mas eficaz, ele permite os usuários
+# Projeto - DexPlayer #
+- Este é um player de música simples, mas eficaz, o usuário pode adicionar suas musicas e usar o player da melhor forma possivel
   
-### Funções:
-- 📕 Adicionar Livros  
-- 📖 Ler Livros
-- 🖐 Devolver Livros
-- 📑 Verificar Livros
-- ✊ Pegar Livros
+# Funções: #
+-  ⏮️ Voltar música
+-  ▶️Começar música
+-  ⏹️Parar música
+-  ⏭️Passar música
+-  📖Listar músicas
