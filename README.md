@@ -1,5 +1,5 @@
 #  🎶 Projeto - DexPlayer 🎶
-- Este é um player de música simples, mas eficaz, o usuário pode adicionar suas musicas e usar o player da melhor forma possivel
+- Este é um player de música simples, mas eficaz, o usuário pode adicionar suas musicas na pasta de musicas e o projeto irá mostralas no terminal, com as seguintes funções
   
 #  🎶 Funções 🎶
 -  ⏮️ Voltar música
