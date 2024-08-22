@@ -6,4 +6,5 @@
 -  ▶️Começar música
 -  ⏹️Parar música
 -  ⏭️Passar música
+-  ⏪Voltar ao inicio da música
 -  📖Listar músicas
